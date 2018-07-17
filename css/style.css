@@ -111,6 +111,7 @@ h1 {
 	padding: 20px 30px;
 	font-size: 0.938em;
 	text-transform: uppercase;
+	cursor: pointer;
 }
 .tour-btn {
 	background-color: #03a9f4;
